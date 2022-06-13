@@ -1,0 +1,35 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Courier+Prime&family=Creepster&family=Special+Elite&display=swap');
+
+body{
+    background-color:#000000;
+}
+
+h2{
+    color: deeppink;
+    text-align: center;
+    font-family: Special Elite;
+    text-transform: capitalize;
+    padding:100 0 0 0;
+}
+
+p{
+    color:rgb(255, 255, 255);
+    font-family: Special Elite;
+    text-align:center;
+    text-transform: capitalize;
+    font-weight: bold;
+    
+}
+h3{
+    color:#ffffff;
+    font-family: Special Elite;
+    text-align:center;
+    text-transform: capitalize;
+    font-size: 12px;
+    padding: 0 0 0 300;
+    border-style:;
+
+}
+

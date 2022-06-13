@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1654803078 source:j:\temp\vote\main.c
+
+1654803005 source:j:\temp\vote\votemachine.c
+	<stdio.h>
+	<string.h>
+
